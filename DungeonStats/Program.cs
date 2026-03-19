@@ -10,18 +10,15 @@ namespace DungeonStats
             
         }
 
-
         private static int Damage (int attack)
         {
             
         }
-
         private static int CriticalHit(int damage)
         {
             
         } 
 
-        
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello LP!");
